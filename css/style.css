@@ -10,3 +10,6 @@ color: rgb(25, 52, 152);
 .liste{
     list-style-position: inside;
 }
+a[href$="org"]:hover{
+    color: palegreen;
+};
